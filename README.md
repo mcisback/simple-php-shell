@@ -3,6 +3,8 @@
 This is probably the simplest php shell you can get
 and you can use it from your terminal
 
+You can read the article about it here: https://marcocaggiano.medium.com/how-to-write-a-simple-php-shell-46a5cbc5cd14
+
 ## How To Use It
 
 ### From Terminal
